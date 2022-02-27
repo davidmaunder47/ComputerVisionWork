@@ -1,0 +1,28 @@
+Dependicies for Main File:
+
+import cv2 as cv
+from rgChromaticity import  mask_algo
+from RGB import three_colour
+from Canny import canny
+from thresholding import global_threshold
+
+Dependicies for Thresholding File:
+
+import cv2 as cv
+import numpy as np
+from matplotlib import pyplot as plt
+
+Dependicies for RGB file:
+import cv2 as cv
+from matplotlib import pyplot as plt
+import numpy as np
+
+Dependicies for rgChromaticity File:
+import numpy as np
+from matplotlib import pyplot as plt
+import cv2 as cv
+
+Dependicies for Canny File:
+import numpy as np
+import cv2 as cv
+from matplotlib import pyplot as plt
