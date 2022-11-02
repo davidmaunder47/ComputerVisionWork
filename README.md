@@ -11,7 +11,7 @@ Mask Detection Work
 Skin Detection 
 
 
-Convolutional Neural Networks (Deep Learning)
+Convolutional Neural Networks (Deep Learning):
 
 An Investigation Using Neural Networks 
 
