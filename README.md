@@ -4,15 +4,15 @@ This GitHub file is a compilation of various computer vision projects I have mad
 
 Conventional Computer Vision Algorithms:
 
-Edge Detection 
+Edge Detection - Detection the outline and area of a leaf(s) in an image.
 
-Mask Detection Work 
-
-Skin Detection 
+Skin Detection - Filter exposed skin on a person(s) in an image. Background will turn black, skin pixels will turn white.
 
 
 Convolutional Neural Networks (Deep Learning):
 
-An Investigation Using Neural Networks 
+Mask Detection - Uses three different Deep Learning Models (Convolutional Neural Networks - CNN's) to detect Mask Wearing.
 
-Fashion Mnist Dataset Work 
+An Investigation Using Neural Networks - Yolov4 Deep Learning Model to detect individuals for Search and Rescue Operations
+
+Fashion Mnist Dataset Work - Google Doc used to detect various clothing using a custom made Deep Neural Network
